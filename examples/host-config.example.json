@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "contract": "autosync-host-config-v1",
+  "auto_update_cli": "\\\\H255\\AI-Work\\제작중인 프로그램\\AutoUpdate\\tools\\autoupdate.ps1",
+  "module_source_root": "\\\\H255\\AI-Work\\제작중인 프로그램\\AutoUpdate\\outbox\\modules",
+  "state_root": "C:\\Users\\REPLACE_ME\\AppData\\Local\\Siny\\AutoUpdate",
+  "app_manifest_path": "\\\\H255\\AI-Work\\제작중인 프로그램\\AutoSync\\examples\\host-modules.json",
+  "update_policy_path": "\\\\H255\\AI-Work\\제작중인 프로그램\\AutoUpdate\\config\\update-policy.json",
+  "python_executable": "C:\\Users\\REPLACE_ME\\AppData\\Local\\Programs\\Python\\Python315\\python.exe",
+  "data_dir": "C:\\ProgramData\\Siny\\AutoSync\\data",
+  "backup_dir": "C:\\ProgramData\\Siny\\AutoSync\\backups",
+  "log_file": "C:\\ProgramData\\Siny\\AutoSync\\logs\\host.jsonl",
+  "bind_host": "127.0.0.1",
+  "port": 8765,
+  "allow_lan": false,
+  "credential_apps": [
+    "replace-with-approved-app-id"
+  ],
+  "credential_target_prefix": "AutoSync/server/",
+  "app_id": "AutoSyncHost",
+  "startup_timeout_seconds": 45,
+  "drain_timeout_seconds": 45,
+  "tls_cert": null,
+  "tls_key": null
+}

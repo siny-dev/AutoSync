@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "contract": "autoupdate-app-modules-v1",
+  "app_id": "AutoSyncHost",
+  "modules": [
+    {
+      "module_id": "AutoSync",
+      "api_major": 1
+    }
+  ]
+}

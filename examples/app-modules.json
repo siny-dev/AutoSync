@@ -1,0 +1,8 @@
+{
+  "schema": 1,
+  "contract": "autoupdate-app-modules-v1",
+  "app_id": "autosync-memo-demo",
+  "modules": [
+    { "module_id": "AutoSync", "api_major": 1 }
+  ]
+}
